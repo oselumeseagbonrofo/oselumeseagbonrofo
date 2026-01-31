@@ -2,7 +2,7 @@
 A Data Scientist and Information Science and Media Studies student
 
 ## 🚀 About Me
-I am Agbonrofo Oselumese, an undergraduate student with a passion for Data Science. My interest in this field drove me to develop strong skills in programming and web development. I am constantly seeking opportunities to learn and grow in the field of Data Science and contribute to advancing the capabailities of AI to preserve African particularly Nigerian Cultures.
+I am Agbonrofo Oselumese, an undergraduate student with a passion for Data Science. My interest in this field drove me to develop strong skills in programming and web development. I am constantly seeking opportunities to learn and grow in the field of Data Science and contribute to advancing the capabilities of AI to preserve African particularly Nigerian Cultures.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oselumese-agbonrofo)
