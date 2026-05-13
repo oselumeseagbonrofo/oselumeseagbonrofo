@@ -2,9 +2,10 @@
 A Data Scientist and Information Science and Media Studies student
 
 ## 🚀 About Me
-I am Agbonrofo Oselumese, an undergraduate student with a passion for Data Science. My interest in this field drove me to develop strong skills in programming and web development. I am constantly seeking opportunities to learn and grow in the field of Data Science and contribute to advancing the capabilities of AI to preserve African particularly Nigerian Cultures.
+I am Agbonrofo Oselumese, an undergraduate student with a passion for Data Science. I am constantly seeking opportunities to learn and grow in the field of Data Science and contribute to advancing the capabilities of AI to preserve African particularly Nigerian Cultures.
 
 ## 🌐 Socials:
+[![Personal site](https://img.shields.io/website/?url=http%3A//https://oselumeseagbonrofo.vercel.app/)](https://oselumeseagbonrofo.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oselumese-agbonrofo)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ose_lumese)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ose_lumese) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oselumeseagbonrofo@gmail.com)
 
@@ -21,13 +22,3 @@ I am Agbonrofo Oselumese, an undergraduate student with a passion for Data Scien
 ![](https://github-readme-stats.vercel.app/api?username=oselumeseagbonrofo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=oselumeseagbonrofo&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oselumeseagbonrofo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=oselumeseagbonrofo&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-
-## My contributions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oselumeseagbonrofo/oselumeseagbonrofo/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oselumeseagbonrofo/oselumeseagbonrofo/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/oselumeseagbonrofo/oselumeseagbonrofo/output/github-snake.svg" />
-</picture>
