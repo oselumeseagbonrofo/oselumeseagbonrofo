@@ -1,8 +1,6 @@
 # Hello World! I am Oselumese Agbonrofo😁✌🏾👋🏾
-A Data Scientist and Information Science and Media Studies student
-
 ## 🚀 About Me
-I am Agbonrofo Oselumese, an undergraduate student with a passion for Data Science. I am constantly seeking opportunities to learn and grow in the field of Data Science and contribute to advancing the capabilities of AI to preserve African particularly Nigerian Cultures.
+I constantly seek opportunities to learn and grow in the field of Data Science and contribute to advancing the capabilities of AI to preserve African particularly Nigerian Cultures.
 
 ## 🌐 Socials:
 [![Personal site](https://img.shields.io/static/v1?label=Portfolio&message=%20&color=blue&logo=&style=flat-square&logoColor=white)](https://oselumeseagbonrofo.vercel.app/)
