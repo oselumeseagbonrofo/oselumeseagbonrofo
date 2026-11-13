@@ -3,7 +3,7 @@
 I constantly seek opportunities to learn and grow in the field of Data Science and contribute to advancing the capabilities of AI to preserve African particularly Nigerian Cultures.
 
 ## 🌐 Socials:
-[![Personal site](https://img.shields.io/static/v1?label=Portfolio&message=%20&color=blue&logo=&style=flat-square&logoColor=white)](https://oselumeseagbonrofo.vercel.app/)
+[![Personal site](https://img.shields.io/static/v1?label=Portfolio&message=%20&color=blue&logo=&style=flat-square&logoColor=white)](https://oselumeseagbonrofo.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oselumese-agbonrofo)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ose_lumese)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ose_lumese) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oselumeseagbonrofo@gmail.com)
 
